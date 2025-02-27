@@ -1,0 +1,6 @@
+openpyxl
+pandas>=1.1.0,<2.0.0
+gluonts==0.12.3
+mxnet==1.9.1
+numpy==1.23.5
+matplotlib>=3.2.0
