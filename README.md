@@ -7,7 +7,7 @@ It showcases my ability to tackle various Data Science challenges and demonstrat
 
 Please find the solution links for the case studies below. Simply click on the links to access each solution.
 
-1. Case Study #1: 
-2. Case Study #2:  
-3. Case Study #3: 
+1. Case Study #1: Prediction Clothing Sales
+2. Case Study #2: Hopistal Revisit Factors
+3. Case Study #3: Correlation Between Parents IQ and Childrens IQ
 4. Case Study #4: 
