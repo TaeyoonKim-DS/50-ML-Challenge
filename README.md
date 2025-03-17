@@ -24,3 +24,5 @@ Please find the solution links for the case studies below. Simply click on the l
 15. Case Study #15: Heart Disease Analysis and Prediction
 16. Case Study #16: Housing Appliances Pattern Clustering
 26. Case STudy #26: Wage Prediction
+
+1. Fraud_Detection
