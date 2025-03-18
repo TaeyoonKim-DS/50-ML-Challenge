@@ -25,4 +25,5 @@ Please find the solution links for the case studies below. Simply click on the l
 16. Case Study #16: Housing Appliances Pattern Clustering
 26. Case Study #26: Wage Prediction
 28. Case Study #28: Credit Card Delayed 
+50. Case Study #50: E-commerce Behaviour Data Analysis
 1. Fraud_Detection
