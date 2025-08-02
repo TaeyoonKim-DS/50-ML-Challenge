@@ -1,5 +1,5 @@
-1. duplicate를 체크한다.
-2. 각 column의 dtype과 unique 값을 확인한다.
+1. duplicate를 체크한다. 
+2. 각 column의 dtype과 unique 값을 확인한다. 
 3. categorical type인데도, int나 float으로 되어있는 부분들을 categorical로 변경해준다. 이 경우 object.
 4. Nan값이 있는 컬럼들을 확인하며 지워준다. handsetprice에 nan값이 많다.
 5. Handsetprice의 컬럼값을 drop한다.
